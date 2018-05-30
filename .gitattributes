@@ -2,3 +2,4 @@
 
 *.h linguist-language=swift
 *.m linguist-language=swift
+*.html linguist-language=python 
